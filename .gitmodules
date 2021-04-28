@@ -1,6 +1,0 @@
-[submodule "A"]
-	path = A
-	url = https://github.com/OS-Q/T41A.git
-[submodule "B"]
-	path = B
-	url = https://github.com/OS-Q/T41B.git
