@@ -57,6 +57,7 @@ jobs:
           - "arduino-external-libs"
           - "arduino-internal-libs"
           - "arduino-own-src_dir"
+          - "arduino-freeRTOS"
           - "native-blink"
           - "simba-blink"
           - "simba-clock"
