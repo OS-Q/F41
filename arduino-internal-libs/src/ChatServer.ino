@@ -1,22 +1,3 @@
-/*
- Chat  Server
-
- A simple server that distributes any incoming messages to all
- connected clients.  To use telnet to  your device's IP address and type.
- You can see the client's input in the serial monitor as well.
- Using an Arduino Wiznet Ethernet shield.
-
- Circuit:
- * Ethernet shield attached to pins 10, 11, 12, 13
- * Analog inputs attached to pins A0 through A5 (optional)
-
- created 18 Dec 2009
- by David A. Mellis
- modified 9 Apr 2012
- by Tom Igoe
-
- */
-
 #include <Arduino.h>
 #include <SPI.h>
 #include <Ethernet.h>

@@ -57,8 +57,9 @@ jobs:
           - "arduino-external-libs"
           - "arduino-internal-libs"
           - "arduino-own-src_dir"
-          - "simba-blink"
           - "native-blink"
+          - "simba-blink"
+          - "simba-clock"
         package: ["pio","qio"]
         os: [ubuntu-latest, windows-latest, macos-latest]
 
